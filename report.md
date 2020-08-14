@@ -16,7 +16,14 @@
 * [Набор тест-кейсов](https://docs.google.com/spreadsheets/d/1_3pHX70nfMOuITghuxrfbaSxt6ApZ-Kw-_HUTd7V6dk/edit?usp=sharing)
 
 
-В качестве тестовых данных использовались данные [генератора номеров кредитных карт](https://fakepersongenerator.com/Random1/credit_card_generator).
+В качестве тестовых данных использовались данные генераторов номеров кредитных карт:
+* https://fakepersongenerator.com/Random1/credit_card_generator  
+* https://www.randomaddressgenerator.com/visa13-credit-card-generator/ 
+* https://wtools.io/ru/credit-card-generator
+
+Номера сгенерированных карт перепроверялись на ресурсах: 
+* https://planetcalc.ru/2465/
+* https://cardgenerator.io/credit-card-validator/
 
 Тестирование производилось в следующем окружении:
 * Windows 10 x64
